@@ -30,7 +30,7 @@ struct Flower: Shape {
     }
 }
 
-struct FlowerView: View {
+struct FlowerUIView: View {
     @State private var petalOffset = -20.0
     @State private var petalWidth = 100.0
     
@@ -49,11 +49,12 @@ struct FlowerView: View {
             Slider(value: $petalWidth, in: 0...100)
                 .padding([.horizontal])
         }
+        .padding()
     }
 }
 
-struct FlowerView_Previews: PreviewProvider {
+struct FlowerUIView_Previews: PreviewProvider {
     static var previews: some View {
-        FlowerView()
+        FlowerUIView()
     }
 }
