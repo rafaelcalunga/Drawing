@@ -30,7 +30,7 @@ struct Flower: Shape {
     }
 }
 
-struct ContentView: View {
+struct FlowerView: View {
     @State private var petalOffset = -20.0
     @State private var petalWidth = 100.0
     
@@ -52,8 +52,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct FlowerView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        FlowerView()
     }
 }
