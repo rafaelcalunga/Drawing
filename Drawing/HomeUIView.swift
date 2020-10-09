@@ -11,6 +11,9 @@ struct HomeUIView: View {
     var body: some View {
         NavigationView {
             List {
+                NavigationLink(destination: ShapeUIView()) {
+                    Text("Shapes")
+                }
                 NavigationLink(destination: FlowerUIView()) {
                     Text("Flower")
                 }
@@ -18,7 +21,7 @@ struct HomeUIView: View {
                     Text("Color Cycling Circle")
                 }
             }
-            .navigationTitle("Animations")
+            .navigationTitle("Drawing")
         }
     }
 }

@@ -37,7 +37,7 @@ struct FlowerUIView: View {
     var body: some View {
         VStack {
             Flower(petalOffset: petalOffset, petalWidth: petalWidth)
-                .fill(Color.red, style: FillStyle(eoFill: true))
+                .fill(Color.pink, style: FillStyle(eoFill: true))
             
             Text("Offset")
             
