@@ -1,6 +1,6 @@
 #  Drawing
 
-This project has some examples of drawind shapes in SwiftUI
+This project has some examples of drawing shapes in SwiftUI
 
 I made this project to improve my knowledge in iOS development, specially SwiftUI.
 
@@ -11,5 +11,6 @@ I learned how to:
 - Transform shapes using CGAffineTransform and even-odd fills
 - Create borders and fills using ImagePaint
 - Enable high-performance Metal rendering with drawingGroup()
+- Use special effects in SwiftUI like blurs and blending
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)

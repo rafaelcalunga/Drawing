@@ -20,6 +20,12 @@ struct HomeUIView: View {
                 NavigationLink(destination: ColorCyclingUIView()) {
                     Text("Color Cycling Circle")
                 }
+                NavigationLink(destination: SpecialEffectsUIView()) {
+                    Text("Special Effects")
+                }
+                NavigationLink(destination: ImageEffectsUIView()) {
+                    Text("Image Effects")
+                }
             }
             .navigationTitle("Drawing")
         }
