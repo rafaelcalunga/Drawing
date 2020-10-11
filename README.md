@@ -12,5 +12,6 @@ I learned how to:
 - Create borders and fills using ImagePaint
 - Enable high-performance Metal rendering with drawingGroup()
 - Use special effects in SwiftUI like blurs and blending
+- Animate simple shapes with animatableData
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)

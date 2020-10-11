@@ -26,6 +26,9 @@ struct HomeUIView: View {
                 NavigationLink(destination: ImageEffectsUIView()) {
                     Text("Image Effects")
                 }
+                NavigationLink(destination: AnimatableDataUIView()) {
+                    Text("Animating Shapes")
+                }
             }
             .navigationTitle("Drawing")
         }
