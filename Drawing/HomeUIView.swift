@@ -32,6 +32,9 @@ struct HomeUIView: View {
                 NavigationLink(destination: AnimatablePairUIView()) {
                     Text("Animating complex hapes")
                 }
+                NavigationLink(destination: SpirographUIView()) {
+                    Text("Spirograph")
+                }
             }
             .navigationTitle("Drawing")
         }

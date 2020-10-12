@@ -14,5 +14,6 @@ I learned how to:
 - Use special effects in SwiftUI like blurs and blending
 - Animate simple shapes with animatableData
 - Animate complex shapes with AnimatablePair
+- Create a spirograph with SwiftUI
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)
