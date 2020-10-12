@@ -21,6 +21,7 @@
 		6DA3FA2D2533B57900802417 /* AnimatableDataUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA3FA2C2533B57900802417 /* AnimatableDataUIView.swift */; };
 		6DA3FA352533B77200802417 /* AnimatablePairUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA3FA342533B77200802417 /* AnimatablePairUIView.swift */; };
 		6DA3FA3D2534EEFD00802417 /* SpirographUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA3FA3C2534EEFD00802417 /* SpirographUIView.swift */; };
+		6DA3FA452534F85400802417 /* ArrowUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DA3FA442534F85400802417 /* ArrowUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		6DA3FA2C2533B57900802417 /* AnimatableDataUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableDataUIView.swift; sourceTree = "<group>"; };
 		6DA3FA342533B77200802417 /* AnimatablePairUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePairUIView.swift; sourceTree = "<group>"; };
 		6DA3FA3C2534EEFD00802417 /* SpirographUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpirographUIView.swift; sourceTree = "<group>"; };
+		6DA3FA442534F85400802417 /* ArrowUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				6DA3FA2C2533B57900802417 /* AnimatableDataUIView.swift */,
 				6DA3FA342533B77200802417 /* AnimatablePairUIView.swift */,
 				6DA3FA3C2534EEFD00802417 /* SpirographUIView.swift */,
+				6DA3FA442534F85400802417 /* ArrowUIView.swift */,
 				6DA3F9BA252D3F6900802417 /* Assets.xcassets */,
 				6DA3F9BF252D3F6900802417 /* Info.plist */,
 				6DA3F9BC252D3F6900802417 /* Preview Content */,
@@ -293,6 +296,7 @@
 				6DA3F9B7252D3F6700802417 /* DrawingApp.swift in Sources */,
 				6DA3F9F5252FBA8100802417 /* ColorCyclingUIView.swift in Sources */,
 				6DA3FA3D2534EEFD00802417 /* SpirographUIView.swift in Sources */,
+				6DA3FA452534F85400802417 /* ArrowUIView.swift in Sources */,
 				6DA3FA2D2533B57900802417 /* AnimatableDataUIView.swift in Sources */,
 				6DA3FA1D2533A98800802417 /* SpecialEffectsUIView.swift in Sources */,
 			);

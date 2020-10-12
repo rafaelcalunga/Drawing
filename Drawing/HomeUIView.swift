@@ -35,6 +35,9 @@ struct HomeUIView: View {
                 NavigationLink(destination: SpirographUIView()) {
                     Text("Spirograph")
                 }
+                NavigationLink(destination: ArrowUIView()) {
+                    Text("Arrow")
+                }
             }
             .navigationTitle("Drawing")
         }
