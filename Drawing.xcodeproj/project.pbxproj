@@ -64,6 +64,7 @@
 		6DA3FA342533B77200802417 /* AnimatablePairUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatablePairUIView.swift; sourceTree = "<group>"; };
 		6DA3FA3C2534EEFD00802417 /* SpirographUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpirographUIView.swift; sourceTree = "<group>"; };
 		6DA3FA442534F85400802417 /* ArrowUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrowUIView.swift; sourceTree = "<group>"; };
+		6DF778CC2537B2BB0074BFE5 /* drawing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = drawing.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +99,7 @@
 				6DA3F9C7252D3F6A00802417 /* DrawingTests */,
 				6DA3F9D2252D3F6A00802417 /* DrawingUITests */,
 				6DA3F9B4252D3F6700802417 /* Products */,
+				6DF778CC2537B2BB0074BFE5 /* drawing.gif */,
 				6DA3FA10253107B300802417 /* README.md */,
 			);
 			sourceTree = "<group>";

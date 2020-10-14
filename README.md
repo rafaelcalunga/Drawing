@@ -2,6 +2,8 @@
 
 This project has some examples of drawing shapes in SwiftUI
 
+![Drawing](https://github.com/rafaelcalunga/Drawing/blob/main/drawing.gif)
+
 I made this project to improve my knowledge in iOS development, specially SwiftUI.
 
 I learned how to:
